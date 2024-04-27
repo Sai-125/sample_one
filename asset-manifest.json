@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sai-125/sample_one/static/css/main.0566e6f0.css",
+    "main.js": "/Sai-125/sample_one/static/js/main.de3da7dd.js",
+    "static/js/453.e52305e5.chunk.js": "/Sai-125/sample_one/static/js/453.e52305e5.chunk.js",
+    "index.html": "/Sai-125/sample_one/index.html",
+    "main.0566e6f0.css.map": "/Sai-125/sample_one/static/css/main.0566e6f0.css.map",
+    "main.de3da7dd.js.map": "/Sai-125/sample_one/static/js/main.de3da7dd.js.map",
+    "453.e52305e5.chunk.js.map": "/Sai-125/sample_one/static/js/453.e52305e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0566e6f0.css",
+    "static/js/main.de3da7dd.js"
+  ]
+}
